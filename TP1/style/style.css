@@ -1,0 +1,81 @@
+body{
+  color: black;
+  font-family: Times New Roman;
+  font-size: 12px;
+  background-color: #eeee;
+  text-align: justify;
+
+}
+#hea{
+  image-rendering: unset;
+height: 25%;
+font-family: Showcard Gothic,impact,Times New Roman;
+font-size: 36px;
+background:url('../images/head1.jpg');
+border-radius: 5px;
+background-size: 100%;
+color: red;
+left: 0px;
+height: 65px;
+padding: 15px;
+margin: 0px;
+border-bottom-left-radius: 1px;
+}
+.hea1{
+      background: url('../images/head2.jpg');
+      left: 0px;
+      width: 25%;
+      height: 30px;
+      margin: 0px;
+      border-radius: 5px;
+      border-top-left-radius: 1px;
+      border-top-right-radius: 1px;
+      text-align: center;
+      padding: 5px;
+}
+.hea1 ul{
+       list-style-type: none;
+      display: inline-block;
+      text-align: horizontal;
+
+}
+
+.hea1 #acc{
+  background-color: black;
+ border-radius: 5px;
+ margin: 1px;
+ height: 25px;
+ font-size: 18px;
+}
+.hea1  #con{
+ background-color: black;
+ border-radius: 5px;
+ margin: 1px;
+ font-size: 18px;
+}
+.hea1  #ins{
+ background-color: black;
+ border-radius: 5px;
+ margin: 1px;
+font-size: 18px;
+ margin: 1px;
+}
+.hea1 #acc:hover{
+  color: green;
+  background-color: black;
+  transition: 0.5s;
+   border-radius: 5px;
+}
+
+.hea1 #con:hover{
+  color: yellow;
+  background-color: black;
+  transition: 0.5s;
+   border-radius: 5px;
+}
+.hea1 #ins:hover{
+  color: red;
+  background-color: black;
+  transition: 0.5s;
+   border-radius: 5px;
+}
